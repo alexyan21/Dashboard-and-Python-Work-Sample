@@ -2,7 +2,7 @@
 Using RFM and clustering approaches to segment client's customers and predict their lifetime values in 90 days
 
 RFM analysis Dashboard 
-Link: https://app.powerbi.com/groups/me/reports/3cda9086-d814-4e06-aaa0-dcd9bd6bfc19/ReportSection
+- Link: https://app.powerbi.com/groups/me/reports/3cda9086-d814-4e06-aaa0-dcd9bd6bfc19/ReportSection
 -	Achievement: This customer segmentation dashboard helped the client's target marketing efficiency improve by 90% and monthly revenue improved by 15%. 
 -	Key features: 
 o	RFM analysis
