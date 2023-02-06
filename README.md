@@ -10,6 +10,9 @@ Using RFM and clustering approaches to segment client's customers and predict th
     - Custom parameter adjustments
     -	Cross-report drill through 
     -	Visual interactions
+-   Overview
+<img width="400" alt="Customer Segmentation Dashboard Thumbnail" src="https://user-images.githubusercontent.com/32621303/216890759-f5ea64d0-02a2-4407-84f5-1ea9c59f31c5.png">
+
 
 ## Customer Lifetime Values Model
 -	Achievement: This CLV model predicts customer purchase behaviors and CLV in the next 90 days, together with the segmentation dashboard above, improved marketing efficiency and revenue for the client's business
